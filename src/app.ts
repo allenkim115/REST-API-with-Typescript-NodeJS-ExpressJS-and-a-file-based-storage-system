@@ -5,7 +5,6 @@ import helmet from "helmet"
 import { userRouter } from "./users/users.routes"
 import { productRouter } from "./products/product.routes" 
 
-
 dotevnv.config()
 
 if (!process.env.PORT) {
@@ -13,7 +12,6 @@ if (!process.env.PORT) {
 }
 
 const PORT = parseInt(process.env.PORT as string, 10)
-
 const app = express()
 
 app.use(express.json())
