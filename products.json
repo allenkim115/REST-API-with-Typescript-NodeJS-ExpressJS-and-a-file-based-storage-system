@@ -1,1 +1,9 @@
-{"7c15eef0-3a64-4685-8ee6-b947c79978e8":{"id":"7c15eef0-3a64-4685-8ee6-b947c79978e8","name":"stephen","price":"stephen@gmail.com","quantity":"steve123","image":"image_url.png"},"0c3e2d7a-3d88-4748-b1b2-f82afa1d7e03":{"id":"0c3e2d7a-3d88-4748-b1b2-f82afa1d7e03","name":"Wrist watch","price":"500","quantity":"50","image":"image_url.png"}}
+{
+    "561ba8c3-4e08-43ab-b4b6-e32a8a1035e7":{
+        "id":"561ba8c3-4e08-43ab-b4b6-e32a8a1035e7",
+        "name":"Bracelet",
+        "price":"300",
+        "quantity":"20",
+        "image":"image_url.png"
+        }
+}
